@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83975c37-335f-4d25-8865-ff06d086408f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/prueba-docker/public/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/prueba-docker/public/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -145,6 +146,8 @@
       <workItem from="1599551808881" duration="301000" />
       <workItem from="1599552439919" duration="1457000" />
       <workItem from="1599714870523" duration="55000" />
+      <workItem from="1599953705539" duration="24000" />
+      <workItem from="1599953730983" duration="26000" />
     </task>
     <servers />
   </component>
@@ -156,6 +159,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1599552997160" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1599953728566">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1599953728566" />
     <state width="271" height="457" key="HiddenNamespacesPopup" timestamp="1599553033599">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

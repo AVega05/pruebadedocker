@@ -59,6 +59,6 @@
 //
 //$kernel->terminate($request, $response);
 
-echo "Probando AWS";
+echo "Wena Javi Como estamos?";
 
 ?>
